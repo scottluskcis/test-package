@@ -64,3 +64,8 @@ Reload with `source ~/.zshrc`
 - `npm login`
 - Run `npm publish --access public` if public
 - You can use scoped packages prefix with your scope  
+
+## Notable Links
+
+- [Creating and publishing scoped public packages](https://docs.npmjs.com/creating-and-publishing-scoped-public-packages)
+- [Quickstart: Publish to GitHub Packages with GitHub Actions](https://docs.github.com/en/packages/quickstart)
